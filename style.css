@@ -1,3 +1,66 @@
-body {
-background-color: #B2D3E5;
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Chewy);
+@import url(https://fonts.googleapis.com/css?family=Dancing+Script);
+@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
+@import url(https://fonts.googleapis.com/css?family=Lora);
+body{
+  background-color:#98CCE6;
+}
+
+h2{
+  color:#F0CA9A;
+  font-size: 200%;
+ font-family: 'Dancing Script';
+  background-color: white;
+  letter-spacing: 5px;
+}
+p{
+  color:white;
+  font-size: 100%;
+  font-family: 'Shadows Into Light';
+  background-color:#E8C4E7;
+}
+img{
+  height:8%;
+  width:8%; 
+}
+iframe{
+width: 20%;
+height: 20%;
+}  
+
+.col1 {
+  width: 47%;
+  height: 50px;
+  border: 1px solid #000;
+  border-color: white;
+  color: white;
+  font-family: 'Lora';
+  background-color:#F0CA9A;
+  padding: 20px;
+  margin-bottom: 10px;
+  float: left;
+}
+.col2 {
+  width: 47%;
+	height: 50px;
+  border: 1px solid #000;
+  border-color: white;
+  color: white;
+  font-family: 'Lora';
+  background-color:#F0CA9A;
+  padding: 20px;
+  margin-bottom: 10px;
+  float: right;
+}
+p{
+  color:white;
+  font-size: 100%;
+  background-color:#E8C4E7;
+}
+.p2{
+  color:#F0CA9A;
+  font-size: 100%;
+  font-family: 'Lora';
+  background-color: white;   
 }
