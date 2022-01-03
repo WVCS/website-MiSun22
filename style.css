@@ -4,8 +4,9 @@
 @import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
 @import url(https://fonts.googleapis.com/css?family=Lora);
 body{
-  background-color:#BD9391;
+  background-color:#98CCE6;
 }
+
 nav {
   list-style-type: none;
 background-color: #535354;
@@ -16,9 +17,11 @@ width: 100%;
   top: 0;
   margin: 0;
 }
+
 li {
   float: left;
 }
+
 li a {
   display: block;
   color: white;
@@ -26,21 +29,21 @@ li a {
   padding: 15px 50px;
 }
 li a:hover {
-  background-color: #6EB4D1;
-  color: #98D5EE;
+  background-color: #EA3941;
+  color: #FE9FA3;
 }
 h2{
-  color: white;
+  color:#F0CA9A;
   font-size: 200%;
  font-family: 'Dancing Script';
-  background-color: #91B7C7;
+  background-color: white;
   letter-spacing: 5px;
 }
 p{
-  color: #BD9391;
+  color:white;
   font-size: 100%;
   font-family: 'Shadows Into Light';
-  background-color:#ADBABD;
+  background-color:#E8C4E7;
 }
 img{
   height:8%;
@@ -50,7 +53,6 @@ iframe{
 width: 20%;
 height: 20%;
 }  
-
 .col1 {
   width: 47%;
   height: 50px;
@@ -58,7 +60,7 @@ height: 20%;
   border-color: white;
   color: white;
   font-family: 'Lora';
-  background-color:#6CBEED;
+  background-color:#F0CA9A;
   padding: 20px;
   margin-bottom: 10px;
   float: left;
@@ -70,7 +72,7 @@ height: 20%;
   border-color: white;
   color: white;
   font-family: 'Lora';
-  background-color:#6CBEED;
+  background-color:#F0CA9A;
   padding: 20px;
   margin-bottom: 10px;
   float: right;
@@ -78,10 +80,10 @@ height: 20%;
 p{
   color:white;
   font-size: 100%;
-  background-color:#ADBABD;
+  background-color:#E8C4E7;
 }
 .p2{
-  color:#BD9391;
+  color:#F0CA9A;
   font-size: 100%;
   font-family: 'Lora';
   background-color: white;   
